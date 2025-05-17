@@ -121,7 +121,9 @@ The ls command is used to display a list of content of a directory.
 
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content ofthe file, copy the content of one file to another file, and more.
 
-![image](https://github.com/user-attachments/assets/f448fc72-68ab-482c-baf2-f06f5f48dcf0
+![image](https://github.com/user-attachments/assets/7c2d87b6-5145-440d-b3be-1ae66ba6374c)
+
+
 
 7. cp Command
 
@@ -146,7 +148,8 @@ Create empty file.
 
 Edit file contents using editor.
 
-![image](https://github.com/user-attachments/assets/1ec3ce40-c91c-47f9-a878-8c52bcc40d85
+![image](https://github.com/user-attachments/assets/66051e43-9f55-4d63-a100-6ee34640fa91)
+
 
 ## Result:
 Thus, various Linux commands were executed successfully in Kali Linux virtual machine.
